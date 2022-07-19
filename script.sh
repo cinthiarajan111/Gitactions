@@ -1,0 +1,2 @@
+#!/bin/sh
+echo "WELCOME TO GITHUB CINTHIA , HAPPY LEARNING"
