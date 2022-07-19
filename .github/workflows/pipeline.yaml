@@ -30,4 +30,4 @@ jobs:
 
       # Runs a single command using the runner shell
       - name: Displays my name 
-        run: bash script.sh"
+        run: "bash script.sh"
