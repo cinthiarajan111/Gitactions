@@ -27,3 +27,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: "ls"
+
+      # Runs a single command using the runner shell
+      - name: Displays my name 
+        run: "HI CINTHIA WELCOME TO GITHUB WORKFLOW"
