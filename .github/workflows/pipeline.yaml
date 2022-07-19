@@ -30,4 +30,4 @@ jobs:
 
       # Runs a single command using the runner shell
       - name: Displays my name 
-        run: echo "HI CINTHIA WELCOME TO GITHUB WORKFLOW"
+        run: bash scripting.sh"
